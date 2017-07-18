@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestWork</string>
+    <string name="more">More</string>
+    <string name="restore">Restore</string>
+    <string name="events_all">Events (All)</string>
+    <string name="header_1">Philadelphia Dinner</string>
+    <string name="date_1">6:00pm – 7:30pm, March 14-15, 2016</string>
+    <string name="apartments_1">San Jose Conference Center</string>
+    <string name="apartments_build_1">Santa Monica Hotel</string>
+    <string name="location_1">San Jose, California</string>
+    <string name="equity_compensation">Equity Compensation</string>
+    <string name="text_body">Lorem ipsum dolor amet, consectetur adipiscing elit,
+                             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</string>
+    <string name="header_2">CES 2016</string>
+    <string name="date_2">11:00pm – 4:20pm, March 14-15, 2016</string>
+    <string name="apartments_2">Washington Conference Center</string>
+    <string name="apartments_build_2">Santa Monica Hotel</string>
+    <string name="location_2">1101 New York Ave, Washington, DC</string>
+    <string name="topic">Topic: Digital Advertising</string>
+</resources>
